@@ -1,0 +1,92 @@
+Nama  :  Harlin Cahya Telaumbanua
+kelas :  Prolan 12
+Nim   :  10115165
+
+
+
+
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+PERTEMUAN	|	MATERI				|	PENJELASAN												      		    |	Github				    |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+I		|	Pengenalan Java			|	Menjelaskan Java, Sejarah Java,												    | 	-				    |
+		|					|	Java Adalah Java adalah sebuah bahasa pemrograman yang 									    |					    |
+		|					|	berdasarkan OOP (Object Oriented Programing) yang pada 									    |					    |
+		|					|	awalnya dikembangkan oleh SUN kemudian sekarang diakuisisi 								    |					    |
+		|					|	dan dikembangkan oleh ORACLE												    |					    |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+II		|	Konsep Dasar OOP		|	Sistem yang di bangun berdasarkan metode berorientasi objek adalah sebuah sistem yang komponennya di enkapsulasi(dibungkus) |	Prolan12_10115165/minggu1	    |
+		|					|	menjadi kelompok data dan fungsi yang dapat mewarisi atribut dan sifaat dari komponen lainnya dan			    |					    |
+		|					|	komponen komponen tersebut di orientasi satu sama lain									    |					    |	
+		|					|						    										    |					    |				    					    
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+III		|	Kelas dan Objek			|	Kelas,didefinisikan di dalam teks program seperti blueprint dari objek ,						    |	Prolan12_10115165/minggu2	    |
+		|					|	yang didalamnnya berupa atribut dan operasi yang dikenal sebagai method atau fungsi					    |					    |
+		|					|	Objek,sebuah operasi yang berada dalam kelas memiliki kesamaan data dan fungsi klarifikasi kepada kelas tertentu	    |					    |
+		|					|							    									    |					    |				
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+IV		|	Method, Konstruktor, This	|	Method, Memiliki hubungan dengan objek,objek dibuat dari data dan fungusi, dimana atribut sebagai data dan method 	    |	Prolan12_10115165/mingggu3/       |				    
+		|					|	sebagai fungsi yang bersama sama melakukan suatu task					 				    |					    |
+		|					|	Konstruktor , sebuah prosedur atau aksi aksi yang dilakukan ketika ,sebuah objek dibuat atau di ciptakan                    |					    |
+		|					|	This,mengabil objek lain dalam kales diluar method									    |					    |
+		|					|							    									    |					    |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+V		|	Inheritance			|	Menjelaskan Inheritance, Hubungan antar kelas										    |					    |
+		|					|	Inheritance adalah memungkinkan kita membuat kelas yang diturunkan dari kelas lain . 					    |	ProLan12/Minggu5		    |
+		|					|	Inherinatce juga dapat didefiniskan bahwa sebuah kelas dapat mengakuisisi atribut dan fungsi dari kelas lain		    |					    |
+		|					|	Contoh konsep inheritance adalah hubungan seorang ayah dan anaknya . Anak memiliki data dan fungsi yang dimiliki oleh ayah  |					    |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+VI		|	Overriding			|	Method overriding merupakan method yang parrent class yang ditulis kembali oleh subclass. 				    |					    |
+		|					|	Aturan dari method overriding pada Java :										    |					    |
+		|					|	1. Parameter yang terdapat pada method overriding di subclass harus sama dengan parameter yang terdapat pada parent class.  |	ProLan12/Minggu6	    |
+		|					|	2. Aturan hak akses, hak akses method overriding di subclass tidak boleh lebih ketat di bandingkan dengan hak akses 	    |					    |
+		|					|	   method pada parent class.						   				    		    |					    |
+		|					|																    |					    |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+VII		|	Polimorfisme			|	Polimorfisme Pada Java. Polimorfisme adalah Kemampuan suatu object untuk memiliki bentuk dan wujud berbeda. atau bisa 	    |					    |
+							|	dibilang sebagai Kemampuan dari variabel referensi object yang memiliki aksi berbeda bila method yang sama dipanggil, 	    |					    |
+							|	dimana aksi method tergantung dari tipe objectnya.									    |	-				    |					   
+		|					|															     	    |					    |
+		|					|																    |					    |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+VIII		|	Abstraction			|	-Menjelaskan Abstraksi													    |	Prolan12/Minggu7 |					
+		|					|	-Abstraksi : proses untuk menyembunyikan detail proses yang dilakukan							    |					    |
+		|					|	-Abstraksi pada OOP : sebuah proses atau aksi apa yang objek lakukan bukan bagaimana objek melakukansebuah proses atau aksi |					    |
+		|					|	-Pada Java abstraksi ditunjukkan dengan penggunaan keyword abstract dan akan disebut kelas abstract			    |					    |																																																	
+		|					|	-Jika ingin menggunakan kelas abstract,maka kelas abstract harus diturunkan ke kelas lain yaitu kelas konkret		    |					    |
+	 	|					|	 melalui proses Inheritance												    |					    |
+		|					|	-Menjelaskan Abstract Method												    |					    |
+		|					|	-Belajar coding Abstraction											    	    |					    |																																																																																																																																																																		 															    |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+IX		|	Encapsulation			|	-Menjelaskan Enkapsulasi												    |	Harlin_10115165_encapitegration     |																																																						
+		|					|	-Enkapsulasi : sebuah proses atau mekanisme yang membungkus data dan fungsi dari sebuah kelas menjadi unit atau yang dikenal|					    |	
+		|					|	 dengan konsep data hiding												    |					    |
+		|					|	-Setiap atribut dikelas di set private yang hanya dapat diakses dan dimodifikasi melalui method public yang disebut	    |					    |
+		|					|	 getter-setter													  	    |					    |						
+		|					| 	-Data dari sebuah kelas hanya dapat dibuat read only(get saja),write only(set saja) atau keduanya(get-set)		    |					    |
+		|					|	-Belajar coding Encapsulation												    |					    |																																																											
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+X		|	Interface			|	Reference type yang mirip dengan class, class menjelaskan atribut & method tetapi interface				    |	prolan12/10115165	    |
+		|					|	methodnya bisa di implementasi oleh class										    |					    |					    
+		|					|																    |					    |
+		|					|																    |					    |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+XI		|	Generic Class			|	-Menjelaskan Generik Class												    |					    |
+		|					|	-Generik Class : kelas yang universal atau umum										    |					    |
+		|					|	-Belum ada spesifikasi tipe data dan fungsi yang ada pada kelas tersebut,kelas bebas menentukan sendiri ingin menjadi apa   |			-		    |		
+		|					|	-Kelas generic pada java ditentukan sebagai parameter Tipe,kita dapat mengeksplisitkan paramater type dan mengeksplisitkan  |					    |
+		|					|	 Type casting dan nama untuk tipe generik menggunakan huruf besar-> E=element,K=key,N=number,T=type,V=value		    |					    |
+		|					|	-Belajar Coding Generic Class												    |					    |																																	
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+XII		|	Generic Method			|	Digunakan untuk menyatakan type parameter method yang tidak berkaitan dengan parameter yang dimiliki			    |	                                    |
+		|					|																    |			-		    |
+		|					|																    |					    |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+XIII		|	Packages			|	Digunakan untuk menghindari konflik											    |		                            |
+		|					|	dapat didefinisikan sebagai sekumpulan class										    |			-		    |
+		|					|	Memberi proteksi pada class												    |					    |
+		|					|																    |					    |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
