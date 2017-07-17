@@ -1,0 +1,12 @@
+
+lokasi program sudah jadi : 
+
+file program : ..\dist\Processor.jar
+fie data : ..\dist\Data.txt
+
+
+pastikan juga sudah terinstal JRE(java runtime Engine)
+
+
+------------------------
+

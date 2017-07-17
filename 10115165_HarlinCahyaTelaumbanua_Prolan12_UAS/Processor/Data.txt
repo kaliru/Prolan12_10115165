@@ -1,0 +1,2 @@
+101191#Core i3#Haswel#4#4#4#3.5 Ghz#2 MB
+101193#Core i5#Haswel#5#4#5#3.7 Ghz#2,5 Mb
